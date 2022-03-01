@@ -1,4 +1,4 @@
 package com.odoo.step_definitions;
 
-public class LoginSteps {
+public class LoginSteps_hkn {
 }

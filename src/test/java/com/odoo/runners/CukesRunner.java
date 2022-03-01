@@ -18,7 +18,7 @@ import org.junit.runner.RunWith;
 
 )
 
-public class CokesRunner {
+public class CukesRunner {
 
 
 }
